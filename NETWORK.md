@@ -1,15 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Deepfake Detector
 
-**ai-deepfake-detector** — detect deepfakes and verify content authenticity. Part of the Zion Tech Group app network (630+ apps).
+Detect AI-generated deepfakes and verify content authenticity.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Field & City Sites](https://github.com/Zion-support/zion-network/blob/main/network/field-city-sites.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [zion-ai-threat-intel](https://github.com/Zion-support/zion-ai-threat-intel) · [ai-cybersecurity-hub](https://github.com/Zion-support/ai-cybersecurity-hub) · [ai-ai-safety](https://github.com/Zion-support/ai-ai-safety) · [ai-image-editor](https://github.com/Zion-support/ai-image-editor)
 
-## Related apps
-- [ai-phishing-simulator](https://github.com/Zion-support/ai-phishing-simulator) — security awareness training
-- [zion-ai-threat-intel](https://github.com/Zion-support/zion-ai-threat-intel) — threat intelligence
-- [zion-security-shield](https://github.com/Zion-support/zion-security-shield) — cybersecurity platform
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
